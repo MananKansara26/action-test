@@ -12,5 +12,5 @@ jobs:
       - run: npm install -g bats
       - run: bats -v
       - run: node -v
-      - run: pws
+      - run: pwd
       - run: ls
